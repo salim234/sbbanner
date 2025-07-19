@@ -1,0 +1,5 @@
+{
+  "name": "APBDes Banner Generator",
+  "description": "A web application to dynamically generate village budget (APBDes) infographics based on user input. Users can fill in financial data for revenue, spending, and financing, and the app will produce a visually appealing banner that can be exported as a PNG image.",
+  "requestFramePermissions": []
+}
